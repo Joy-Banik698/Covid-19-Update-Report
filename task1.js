@@ -242,6 +242,7 @@
                     <td>${y[i].deaths}</td>
                     <td>${y[i].todayDeaths}</td>
                     <td>${y[i].recovered}</td>
+                    
                     <td>${y[i].critical}</td>
                     <td>${y[i].casesPerOneMillion}</td>
                     <td>${y[i].deathsPerOneMillion}</td>
@@ -268,6 +269,7 @@ fetch(url).then((response)=>{
                     <td>${data[i].deaths}</td>
                     <td>${data[i].todayDeaths}</td>
                     <td>${data[i].recovered}</td>
+                    <td>${data[i].active}</td>
                     <td>${data[i].critical}</td>
                     <td>${data[i].casesPerOneMillion}</td>
                     <td>${data[i].deathsPerOneMillion}</td>
