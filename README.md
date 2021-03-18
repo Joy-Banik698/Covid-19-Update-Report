@@ -1,2 +1,3 @@
 # Covid-19-Update-Report
-Live
+Demo;
+https://joy-banik698.github.io/Covid-19-Update-Report/
